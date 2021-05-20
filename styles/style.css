@@ -1,0 +1,19 @@
+body {
+  background-color: #4b1910;
+}
+.container {
+  width: 80%;
+  margin: auto;
+
+  color: #e7c8b6;
+}
+
+.image {
+  width: auto;
+  border-radius: 80%;
+  height: 500px;
+}
+
+div > div {
+  margin: auto;
+}
