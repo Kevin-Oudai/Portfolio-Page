@@ -52,9 +52,9 @@ div > div {
 }
 
 .project-card > div {
-  background-color: #fe5f00;
   margin: 20px;
-  height: 500px;
-  width: auto;
-  text-align: center;
+}
+
+.project-image:hover {
+  box-shadow: 1px 1px 10px #ff8138;
 }
